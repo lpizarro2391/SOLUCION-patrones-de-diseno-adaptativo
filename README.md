@@ -1,0 +1,1 @@
+# SOLUCION-patrones-de-diseno-adaptativo
